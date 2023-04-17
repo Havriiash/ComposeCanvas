@@ -5,6 +5,5 @@
 Pet-project to understand jetpack compose canvas
 
 ## Resume
-![image](./screenshots/1.png)
-![image](./screenshots/2.png)
+<img src="./screenshots/1.png" alt= “” width="200" height="200">
 <img src="./screenshots/3.gif" alt= “” width="200" height="200">
